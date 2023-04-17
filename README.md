@@ -1,7 +1,7 @@
 # sampleformic
 Created with CodeSandbox
 sample fomik form 
-Overview of React Form Validation example
+##Overview of React Form Validation example
 We will implement validation for a React Form using Formik and Bootstrap 4. The form has:
 
 Full Name: required
